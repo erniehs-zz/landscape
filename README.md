@@ -13,7 +13,7 @@ generates a fractal landscape, running water and erosion.
 - settling of water
 - leveling of water
 
-thes efeatures are toggled with the buttons or using the r, s, l, e keys.
+these features are toggled with the buttons or using the r, s, l, e keys.
 
 ## landscape generation
 
