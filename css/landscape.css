@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+@media (min-width: 645px) {
+  .container {
+    width: 645px;
+    height: 900px;
+    padding: 0;
+    margin: 0;
+  }
+}
